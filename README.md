@@ -258,7 +258,3 @@ Alla fine ce l'hai fatta! Hai concluso anche l'ultima query!
 *Era el día cinco de mayo, en el día de los muertos, cuando aquel pobre caballero pereció en el intento de resolver la última consulta. Señor Dios, guía su alma al paraíso e ilumina a aquellos locos que intentarán inútilmente resolver estas consultas.*
 
 *Felicidades, te has convertido en el **Caballero de la Muerte**.*
-
-
-## 🔗 Links
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/birg_81)
